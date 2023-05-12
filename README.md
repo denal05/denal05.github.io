@@ -1,9 +1,9 @@
 # Denis V. Aleksandrov's Open Cover Letter
 
 > TL;DR
-> I'm a guy with 20 years of experience in IT, now focusing on developing Magento E-commerce stores. My mission is to make a difference, to grow in character, and to seize the day!
+> I'm a guy with 20 years of experience in IT, now focusing on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
 
-Hello. My name is Denis. I am passionate about creating Magento 2 web stores. I have 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 for the past 2.5 years. Allow me to tell you about a couple of projects.
+Hello. My name is Denis, a.k.a. Denko. I am passionate about creating Magento 2 web stores. I have 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. Allow me to tell you about a couple of projects.
 
 The first project I'd like to present to you is Zazu:  
 https://codewellgroup.com/zazu  
@@ -54,11 +54,11 @@ My Magento 2 work in this project involved:
 - Custom Magento Repositories
 - CRUD Functionality
 
-A little bit about my background. I spent ten years in the USA. First, I obtained a Bachelor’s degree in Computer Science in Oklahoma. I took the test and became a Sun Certified Java Programmer in 2006. Next, I obtained a Master’s degree in Electrical Engineering in California in 2008, concentrating on Embedded Systems Engineering. 
+A little bit about my background. I spent ten years in the USA. First, I obtained a Bachelor’s degree in Computer Science in Oklahoma, in 2005. I took the test and became a Sun Certified Java Programmer in 2006. Next, I obtained a Master’s degree in Electrical Engineering in California, in 2008, concentrating on Embedded Systems Engineering. 
 
-I came back to my home country of North Macedonia in 2009. I worked at Seavus as a junior Embedded Software Engineer/Tester for two years, developing telecommunications firmware. Next, I worked at INform as a project manager in 2011 for seven years, a small company that celebrated its 20th birthday in 2018. INform needed a project manager for their contract with IntriCon, a USA company that had just started to design their first holter (heart monitor) device. They outsourced INform to develop the complete software solution (firmware, desktop app, web app, iOS app), QA, and FDA 510(k) regulatory compliance documentation. The 2-year project turned into a 6-year project, and IntriCon was so happy with us that their project manager wrote us a recommendation letter that is available upon request. I also maintained the code for the iOS app that communicated with the embedded systems medical device via Bluetooth Low Energy. I managed and executed tests via TestFlight. I also wrote a WordPress plugin to replace TestFlight via ad-hoc distribution using the ITMS-services protocol. 
+I came back to my home country of North Macedonia in 2009. I worked at Seavus as a junior Embedded Software Engineer/Tester for two years, developing telecommunications firmware. Next, I worked at INform as a project manager in 2011 for seven years, a small company that celebrated its 20th birthday in 2018. INform needed a project manager for their contract with IntriCon, a USA company based in Minnesota, that had just started to design their first holter (heart monitor) device. They outsourced INform to develop the complete software solution (firmware, desktop app, web app, iOS app), QA, and FDA 510(k) regulatory compliance documentation. The 2-year project turned into a 6-year project, and IntriCon was so happy with us that their project manager wrote us a recommendation letter that is available upon request. I also maintained the code for the iOS app that communicated with the embedded systems medical device via Bluetooth Low Energy. I managed and executed tests via TestFlight. I also wrote a WordPress plugin to replace TestFlight via ad-hoc distribution using the ITMS-services protocol. 
 
-In the past 2.5 years, I have been working as a full-stack Magento 2 developer at CodeWell—an award-winning company that specializes in chatbots and also creates innovative solutions by combining different technologies with proprietary middleware.
+From 2019 to 2021 I worked as a full-stack Magento 2 developer at CodeWell, an award-winning company that specializes in chatbots and also creates innovative solutions by combining different technologies with proprietary middleware. Ever since, I've been subcontracting/freelancing for various international companies as a backend Magento 2 developer, working from home.
  
 My mission is to make a difference, to grow in character, and to seize the day!
 
