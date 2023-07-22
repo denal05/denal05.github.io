@@ -68,6 +68,6 @@ Sincerely,
 Denis Aleksandrov 
 +389-77-975812
 denis.v.aleksandrov@gmail.com
-[https://github.com/denal05](https://github.com/denal05)
+<a href="https://github.com/denal05" target="_blank">https://github.com/denal05</a>
 [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)
 [https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e?s=1017484851352698949](https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e?s=1017484851352698949)
