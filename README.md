@@ -1,12 +1,12 @@
 # Denis V. Aleksandrov's Open Cover Letter
 
 > TL;DR
-> I'm a guy with 20 years of experience in IT, now focusing on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
+> I'm a guy with 20+ years of experience in IT, now focusing on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
 
-Hello. My name is Denis, a.k.a. Denko. I am passionate about creating Magento 2 web stores. I have 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. Allow me to tell you about a couple of projects.
+Hello. My name is Denis, a.k.a. Denko. I am passionate about creating Magento 2 web stores. I have 20+ years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. Allow me to tell you about a couple of projects.
 
 The first project I'd like to present to you is Zazu:  
-https://codewellgroup.com/zazu  
+[https://codewellgroup.com/zazu](https://codewellgroup.com/zazu)  
 The client's goal for this project was to create a new online shopping experience for parents to buy children's clothes, toys, and gifts. The project comprises a web store and a special Event Organizer for various children's events. It is also designed as a community where parents, relatives, and friends can share experiences and learn from each other to find and buy the best for their children.
 The system is made of a Magento 2 store, and a web app interfaced with Magento. The Magento store sells children's toys, clothes, accessories, etc. The web app enables parents to organize children's birthday parties with products from the Magento store.  
 My Magento 2 work in this project involved the following:
@@ -30,7 +30,7 @@ My Magento 2 work in this project involved the following:
 - Custom Logs
 
 The second project is Kniga (Book):  
-https://codewellgroup.com/kniga  
+[https://codewellgroup.com/kniga](https://codewellgroup.com/kniga)  
 The client's goal for this project was to create an ecosystem for reviewing, searching, buying, and reading printed and electronic books. The entire ecosystem comprises a Magento 2 web store, native Android and iOS mobile apps, and an admin panel web app. The mobile apps are loosely coupled to the Magento 2 store via Firebase. The Magento store sells paper books and eBooks. The mobile apps enable buying and reading eBooks from the Magento 2 store.  
 My Magento 2 work in this project involved the following:
 - Payment Gateway Integration
