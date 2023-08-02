@@ -3,7 +3,9 @@
 > TL;DR
 > I'm a guy with 20+ years of experience in IT, now focusing on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
 
-Hello. My name is Denis, a.k.a. Denko. I am passionate about creating Magento 2 web stores. I have 20+ years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. Allow me to tell you about a couple of projects.
+Hello. My name is Denis, a.k.a. Denko. I am passionate about creating Magento 2 web stores. I have 20+ years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [https://github.com/denal05/denal05.github.io/blob/main/_CV-Europass-20230727-D.Aleksandrov-EN-Magento-Skills-5p.pdf](_CV-Europass-20230727-D.Aleksandrov-EN-Magento-Skills-5p.pdf)
+
+Allow me to tell you about a couple of projects.
 
 The first project I'd like to present to you is Zazu:  
 [https://codewellgroup.com/zazu](https://codewellgroup.com/zazu)  
