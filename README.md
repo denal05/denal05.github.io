@@ -62,6 +62,8 @@ I came back to my home country North Macedonia in 2009. I worked at Seavus as a 
 
 From 2019 to 2021, I worked as a full-stack Magento 2 developer at CodeWell, an award-winning company that specializes in chatbots and also creates innovative solutions by combining different technologies with proprietary middleware. Ever since, I've been subcontracting/freelancing for various international companies as a backend Magento 2 developer, working from home.
  
+From February to June 2023 I was a Backend Magento 2 developer for NTT Data Spain. I worked on a project for their client Orange Belgium. I was coding modules according to user stories and providing defect fixes in staging and production environments. I worked extensively on "bulk order status update" functionality and Algolia integration. Also, I worked on the "onepage" checkout customization. Please check the recommendation I received from the tech lead on my LinkedIn profile: https://www.linkedin.com/in/denal05
+
 My mission is to make a difference, to grow in character, and to seize the day!
 
 I am looking forward to hearing from you.
