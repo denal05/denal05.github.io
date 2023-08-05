@@ -10,7 +10,7 @@ Allow me to tell you about a couple of projects.
 The first project I'd like to present to you is Zazu:  
 [https://codewellgroup.com/zazu](https://codewellgroup.com/zazu)  
 The client's goal for this project was to create a new online shopping experience for parents to buy children's clothes, toys, and gifts. The project comprises a web store and a special Event Organizer for various children's events. It is also designed as a community where parents, relatives, and friends can share experiences and learn from each other to find and buy the best for their children.
-The system is made of a Magento 2 store, and a web app interfaced with Magento. The Magento store sells children's toys, clothes, accessories, etc. The web app enables parents to organize children's birthday parties with products from the Magento store.  
+The system is made of a Magento 2 store and a web app interfaced with Magento. The Magento store sells children's toys, clothes, accessories, etc. The web app enables parents to organize children's birthday parties with products from the Magento store.  
 
 The second project is Kniga (Book):  
 [https://codewellgroup.com/kniga](https://codewellgroup.com/kniga)  
@@ -45,7 +45,7 @@ I came back to my home country North Macedonia in 2009. I worked at Seavus as a 
 
 From 2019 to 2021, I worked as a full-stack Magento 2 developer at CodeWell, an award-winning company that specializes in chatbots and also creates innovative solutions by combining different technologies with proprietary middleware. Ever since, I've been subcontracting/freelancing for various international companies as a backend Magento 2 developer, working from home.
  
-From February to June 2023 I was a Backend Magento 2 developer for NTT Data Spain. I worked on a project for their client Orange Belgium. I coded modules according to user stories and provided defect fixes in staging and production environments. I worked extensively on "bulk order status update" functionality and Algolia integration. Also, I worked on the "onepage" checkout customization. Please check the recommendation I received from the tech lead on my LinkedIn profile: [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)
+From February to June 2023, I was a Backend Magento 2 developer for NTT Data Spain. I worked on a project for their client Orange Belgium. I coded modules according to user stories and provided defect fixes in staging and production environments. I worked extensively on the "bulk order status update" functionality and Algolia integration. Also, I worked on the "onepage" checkout customization. Please check the recommendation I received from the tech lead on my LinkedIn profile: [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)
 
 My mission is to make a difference, to grow in character, and to seize the day!
 
