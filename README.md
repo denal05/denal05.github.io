@@ -1,7 +1,7 @@
 # Denis V. Aleksandrov's Open Cover Letter
 
 > TL;DR
-> I'm a guy with 20+ years of experience in IT, now focusing on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
+> I'm a guy with 20+ years of experience in IT, with a focus on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
 
 Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, looking for a remote contract position. I have over 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-Europass-20230727-D.Aleksandrov-EN-Magento-Skills-5p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-Europass-20230727-D.Aleksandrov-EN-Magento-Skills-5p.pdf)
 
