@@ -11,25 +11,6 @@ The first project I'd like to present to you is Zazu:
 [https://codewellgroup.com/zazu](https://codewellgroup.com/zazu)  
 The client's goal for this project was to create a new online shopping experience for parents to buy children's clothes, toys, and gifts. The project comprises a web store and a special Event Organizer for various children's events. It is also designed as a community where parents, relatives, and friends can share experiences and learn from each other to find and buy the best for their children.
 The system is made of a Magento 2 store, and a web app interfaced with Magento. The Magento store sells children's toys, clothes, accessories, etc. The web app enables parents to organize children's birthday parties with products from the Magento store.  
-My Magento 2 work in this project involved the following:
-- Payment Gateway Integration
-- Firebase Authentication Integration
-- Firebase Cloud Firestore Database Integration
-- Google Analytics Integration
-- SMTP Integration
-- Facebook Authentication Integration
-- Fraud Prevention Integration
-- Preorder Integration
-- Gift Card Integration
-- Reward Points Integration
-- Barcode Integration
-- Store Pickup Integration
-- Custom REST APIs
-- CRON Jobs Configuration
-- Tax Configuration
-- Email Template Configuration
-- Localization (i18n)
-- Custom Logs
 
 The second project is Kniga (Book):  
 [https://codewellgroup.com/kniga](https://codewellgroup.com/kniga)  
@@ -40,6 +21,7 @@ My Magento 2 work in this project involved the following:
 - Google Analytics Integration
 - SMTP Integration
 - OpenGraph Integration
+- Facebook Authentication Integration
 - Mailchimp Integration
 - Custom REST APIs
 - CRON Jobs Configuration
@@ -49,6 +31,7 @@ My Magento 2 work in this project involved the following:
 - Marketing and Transactional Email Templates
 - Custom Events and Observers
 - Custom Plugins
+- Custom Logs
 - Custom Layout and Frontend Templates
 - Custom Magento Admin Panel Config Parameters
 - Custom Shipping Modules
