@@ -3,7 +3,7 @@
 > TL;DR
 > I'm a software engineer with 20+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
 
-Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, looking for a remote contract position. I have over 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-Europass-20230821-D.Aleksandrov-EN-Magento-Skills-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-Europass-20230821-D.Aleksandrov-EN-Magento-Skills-4p.pdf)
+Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, looking for a remote contract position. I have over 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-Europass-20230821-D-Aleksandrov-EN-Magento-Skills-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-Europass-20230821-D-Aleksandrov-EN-Magento-Skills-4p.pdf)
 
 Allow me to tell you about a couple of projects.
 
