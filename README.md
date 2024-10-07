@@ -1,7 +1,7 @@
-# Denis V. Aleksandrov's Open Cover Letter
+# My Open Cover Letter
 
 > TL;DR
-> I'm a software engineer with 20+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores. My mission is to make a difference, to grow in character, and to seize the day!
+> I'm a software engineer with 20+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores since 2019. My mission is to make a difference, to grow in character, and to seize the day!
 
 Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, and looking for a remote contract position. I have over 20 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-ATS-opt-20240816-D-Aleksandrov-EN-Magento-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-ATS-opt-20240816-D-Aleksandrov-EN-Magento-4p.pdf)
 
@@ -39,7 +39,7 @@ My Magento 2 work in this project involved the following:
 - Custom Magento Repositories
 - CRUD Functionality
 
-I spent ten years in the USA. During this time, I obtained a Bachelor’s degree in Computer Science in Oklahoma in 2005, and a Master’s degree in Electrical Engineering in California in 2008, concentrating on Embedded Systems Engineering. 
+Allow me to share with you a bit about my background. I spent ten years in the USA. During this time, I obtained a Bachelor’s degree in Computer Science in Oklahoma in 2005, and a Master’s degree in Electrical Engineering in California in 2008, concentrating on Embedded Systems Engineering. 
 
 I came back to my home country North Macedonia in 2009. I worked at Seavus as a junior Embedded Software Engineer/Tester for two years, developing telecommunications firmware. Next, I worked at INform as a project manager in 2011 for seven years, a small company that celebrated its 20th birthday in 2018. INform needed a project manager for their contract with IntriCon, a USA company based in Minnesota that had just started to design their first holter (heart monitor) device. They outsourced INform to develop the complete software solution (firmware, desktop app, web app, iOS app), QA, and FDA 510(k) regulatory compliance documentation. The 2-year project turned into a 6-year project, and IntriCon was so happy with us that their project manager wrote us a recommendation letter that is available upon request. I also maintained the code for the iOS app that communicated with the embedded systems medical device via Bluetooth Low Energy. I managed and executed tests via TestFlight. I also wrote a WordPress plugin to replace TestFlight via ad-hoc distribution using the ITMS-services protocol. 
 
