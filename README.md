@@ -44,11 +44,11 @@ I came back to my home country North Macedonia in 2009. I worked at Seavus as a 
 
 From 2019 to 2021, I worked as a full-stack Magento 2 developer at CodeWell, an award-winning company that specializes in chatbots and also creates innovative solutions by combining different technologies with proprietary middleware. 
 
-In 2021 I self-employed. Ever since, I've been subcontracting/freelancing for various international companies as a backend Magento 2 developer, working from home. This has been very beneficial for my family, because our younger boy has Down syndrome and is also legally blind.
+In 2021 I self-employed. Ever since, I've been subcontracting/freelancing for various international companies as a backend Magento 2 developer, working from home. This has been very beneficial for my family because our younger boy has Down syndrome and is also legally blind.
  
 From February to June 2023, I was a Backend Magento 2 developer for NTT Data Spain. I worked on a project for their client Orange Belgium. I coded modules according to user stories and provided defect fixes in staging and production environments. I worked extensively on the "bulk order status update" functionality and Algolia integration. Also, I customized the "onepage" checkout. Please check the recommendation I received from the tech lead on my LinkedIn profile: [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)
 
-From November 2023 to August 2024 I worked as a Magento 2 developer at Syncit Group in Serbia, remotely. I upgraded Magento websites of existing production environments from 2.3 and 2.4 to 2.6 and 2.7. Also, I created various Docker environments for Magento 2. A big part of my job was detecting and removing malware. Lastly, I customized the classic Magento 2 checkout that comes with the Luma theme.
+From November 2023 to August 2024 I worked as a Magento 2 developer at Syncit Group in Serbia, remotely. I upgraded the Magento websites of existing production environments from 2.3 and 2.4 to 2.6 and 2.7. Also, I created various Docker environments for Magento 2. A big part of my job was detecting and removing malware. Lastly, I customized the classic Magento 2 checkout that comes with the Luma theme.
 
 My mission is to make a difference, to grow in character, and to seize the day!
 
