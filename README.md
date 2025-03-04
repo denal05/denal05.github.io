@@ -50,7 +50,7 @@ From February to June 2023, I was a Backend Magento 2 developer for NTT Data Spa
 
 From November 2023 to August 2024 I worked as a Magento 2 developer at Syncit Group in Serbia, remotely. I upgraded the Magento websites of existing production environments from 2.3 and 2.4 to 2.6 and 2.7. Also, I created various Docker environments for Magento 2. A big part of my job was detecting and removing malware. Lastly, I customized the classic Magento 2 checkout that comes with the Luma theme.
 
-In the meantime, I've been studying for the AD0-E702 certification: [Adobe Certified Professional - Adobe Commerce Developer](https://express.adobe.com/page/ClHLYMaUjTUfa/). To achieve that. I've enrolled in the [SwiftOtter](https://learning.swiftotter.com/) and [M.academy](https://m.academy/) schools. I even sparked a good discussion on [Campus](https://campus.m.academy/), the premium community for Magento developers, which lead Mark Shust to write an excellent article: [The Unexpected Behavior of Magento Plugin Execution Order](https://m.academy/articles/magento-plugin-execution-order/).    
+In the meantime, I've been studying for the AD0-E702 certification: [Adobe Certified Professional - Adobe Commerce Developer](https://express.adobe.com/page/ClHLYMaUjTUfa/). To achieve that. I've enrolled in the [SwiftOtter](https://learning.swiftotter.com/) and [M.academy](https://m.academy/) schools. I even sparked a good discussion on [Campus](https://campus.m.academy/), the premium community for Magento developers, which led Mark Shust to write an excellent article: [The Unexpected Behavior of Magento Plugin Execution Order](https://m.academy/articles/magento-plugin-execution-order/).    
 
 My mission is to make a difference, to grow in character, and to seize the day!
 
