@@ -64,7 +64,7 @@ denis.v.aleksandrov@gmail.com
 
 <figure>
   <img
-    src="/avatar/ec3e7d35db0ff66e33cffee951a9253d?size=256" 
+    src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d?size=256" 
     alt="Denis Aleksandrov's avatar" />
   <figcaption>Denis Aleksandrov on Gravatar</figcaption>
 </figure>
