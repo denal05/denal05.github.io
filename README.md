@@ -1,5 +1,13 @@
 # My Open Cover Letter
 
+<a href="https://gravatar.com/denisvaleksandrov">
+  <figure>
+    <img
+      src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" 
+      alt="Denis Aleksandrov's avatar" />
+  </figure>
+</a>
+
 > TL;DR
 > I'm a software engineer with 25+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores since 2019. My mission is to make a difference, to grow in character, and to seize the day!
 
@@ -61,11 +69,4 @@ denis.v.aleksandrov@gmail.com
 [https://github.com/denal05](https://github.com/denal05)  
 [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)  
 [https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e?s=1017484851352698949](https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e?s=1017484851352698949)
-
-<figure>
-  <img
-    src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d?size=256" 
-    alt="Denis Aleksandrov's avatar" />
-  <figcaption>Denis Aleksandrov on Gravatar</figcaption>
-</figure>
 
