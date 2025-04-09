@@ -1,13 +1,12 @@
 # My Open Cover Letter
 
-<table>
+<table style="border: 0px;">
   <tr>
     <td>
       <a href="https://gravatar.com/denisvaleksandrov"><img src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" alt="Denis Aleksandrov's avatar" /></a>
     </td>
     <td>
-> TL;DR
-> I'm a software engineer with 25+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores since 2019. My mission is to make a difference, to grow in character, and to seize the day!
+      <code>TL;DR I'm a software engineer with 25+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores since 2019. My mission is to make a difference, to grow in character, and to seize the day!</code>
     </td>
   </tr>
 </table>
