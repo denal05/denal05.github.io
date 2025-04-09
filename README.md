@@ -1,15 +1,16 @@
 # My Open Cover Letter
 
-<a href="https://gravatar.com/denisvaleksandrov">
-  <figure>
-    <img
-      src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" 
-      alt="Denis Aleksandrov's avatar" />
-  </figure>
-</a>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://gravatar.com/denisvaleksandrov"><img src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" alt="Denis Aleksandrov's avatar" /></a>
+    </td>
+    <td>
 > TL;DR
 > I'm a software engineer with 25+ years of experience in IT and a focus on developing Adobe Commerce (Magento) stores since 2019. My mission is to make a difference, to grow in character, and to seize the day!
+    </td>
+  </tr>
+</table>
 
 Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, and I'm usually hired as a remote contractor. I have over 25 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf)
 
