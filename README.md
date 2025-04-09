@@ -7,12 +7,10 @@ Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in 
 
 Allow me to share about a couple of projects.
 
-The first project I'd like to present to you is Zazu:  
-[https://codewellgroup.com/zazu](https://codewellgroup.com/zazu)  
+The first project I'd like to present to you is [Zazu](https://web.archive.org/web/20220416060149/https://codewellgroup.com/zazu)  
 Zazu is an online shop for children's products. The project comprises a Magento 2 shop, and an event organizer web app, written in Angular.js and interfaced with the Magento shop. The Magento shop handles the sales, shipping, and invoices. On the other hand, the event organizer web app enables parents to organize children's birthday parties with products from the Magento shop.
 
-The second project is Kniga (Book):  
-[https://codewellgroup.com/kniga](https://codewellgroup.com/kniga)  
+The second project is [Kniga (Book)](https://web.archive.org/web/20220416060153/https://codewellgroup.com/kniga)  
 Kniga is an ecosystem for selling, buying, reading, and reviewing printed books and eBooks made for TRI Publishing House. The entire ecosystem consists of a Magento 2 store, native Android and iOS mobile apps, and an admin panel web app. The mobile apps are loosely coupled to the Magento 2 store via Firebase. The Magento 2 store sells paper books and eBooks; the mobile apps enable buying and reading eBooks from the Magento 2 store.
 My Magento 2 work in this project involved the following:
 - Payment Gateway Integration
