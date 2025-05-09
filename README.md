@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, and I'm usually hired as a remote contractor. I have over 25 years of experience in IT, have worked with the LAMP stack since 2005, and have been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf)
+Hi, my name is Denis. I'm a Magento developer from North Macedonia, educated in the USA, and I'm usually hired as a remote contractor. I have over 25 years of experience in IT, out of which seven were as a project manager. I've worked with the LAMP stack since 2005, and I've been actively working on Magento 2 since 2019. You can find my full curriculum vitae (CV) at the following link: [_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf)
 
 Allow me to share about a couple of projects.
 
