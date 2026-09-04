@@ -72,5 +72,5 @@ Denis V. Aleksandrov
 denis.v.aleksandrov@gmail.com  
 [https://github.com/denal05](https://github.com/denal05)  
 [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)  
-[https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e?s=1017484851352698949](https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e?s=1017484851352698949)  
+[https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e](https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e)  
 [https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002](https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002)  
