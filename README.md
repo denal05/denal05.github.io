@@ -13,9 +13,9 @@
 
 Hi, my name is Denis. I'm a certified Adobe Commerce (Magento) developer from North Macedonia, educated in the USA, and I'm usually hired as a remote contractor. I have over 25 years of experience in IT, out of which seven were as a project manager. I've worked with the LAMP stack since 2005, and I've been actively working on Magento 2 since 2019.
 
-You can find my full curriculum vitae (CV) at the following link: [_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-ATS-2025-02-12-D-Aleksandrov-EN-Magento-4p.pdf)
+You can find my full resume/curriculum vitae (CV) at the following link: [_CV-ATS-2026-09-04-D-Aleksandrov-EN-Magento-4p.pdf](https://github.com/denal05/denal05.github.io/blob/main/_CV-ATS-2026-09-04-D-Aleksandrov-EN-Magento-4p.pdf)  
 
-My certification is available at the following link: [Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002)
+My Adobe certification is available at the following link: [Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002)
 
 Allow me to share a couple of projects.
 
@@ -60,7 +60,7 @@ From February to June 2023, I was a Backend Magento 2 developer for NTT Data Spa
 
 From November 2023 to August 2024, I worked as a Magento 2 developer at Syncit Group in Serbia, remotely. I upgraded the Magento websites of existing production environments from 2.3 and 2.4 to 2.6 and 2.7. Also, I created various Docker environments for Magento 2. A big part of my job was detecting and removing malware. Lastly, I customized the classic Magento 2 checkout that comes with the Luma theme.
 
-In the meantime, I was studying for the AD0-E724 certification: [Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2/1242). To achieve that. I enrolled in the [SwiftOtter](https://learning.swiftotter.com/) and [M.academy](https://m.academy/) schools. I even sparked a good discussion on [Campus](https://campus.m.academy/), the premium community for Magento developers, which led Mark Shust to write an excellent article: [The Unexpected Behavior of Magento Plugin Execution Order](https://m.academy/articles/magento-plugin-execution-order/).    
+In the meantime, I was studying for the AD0-E724 certification [Adobe Certified Professional - Adobe Commerce Developer AD0-E724](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2/1242). To achieve that. I enrolled in the [SwiftOtter](https://learning.swiftotter.com/) and [M.academy](https://m.academy/) schools. I even sparked a good discussion on [Campus](https://campus.m.academy/), the premium community for Magento developers, which led Mark Shust to write an excellent article: [The Unexpected Behavior of Magento Plugin Execution Order](https://m.academy/articles/magento-plugin-execution-order/).    
 
 My mission is to make a difference, to grow in character, and to seize the day!
 
