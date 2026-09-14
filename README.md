@@ -40,7 +40,7 @@ You can find my full resume/curriculum vitae (CV) at the following link: [_CV-AT
 
 I am also a Reformed Christian. My faith shapes how I understand work: as stewardship, service to one's neighbor, truthfulness, responsibility and ultimately service to God. It is an important part of who I am, rather than something separate from my professional life.
 
-If you would like to understand what I believe, I have summarized the Christian Gospel here: [What Is the Gospel? →](https://blog.truthforlife.org/what-is-the-gospel)
+If you would like to understand what I believe, I have summarized the Christian Gospel here: <a href="https://blog.truthforlife.org/what-is-the-gospel" target="_blank">What Is the Gospel? →</a>  
 
 Sincerely,  
 Denis V. Aleksandrov  
