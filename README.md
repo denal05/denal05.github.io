@@ -3,7 +3,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
-      <a href="https://gravatar.com/denisvaleksandrov"><img src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" alt="Denis Aleksandrov's gravatar" width="32" /></a>
+      <a href="https://gravatar.com/denisvaleksandrov"><img src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" alt="Denis Aleksandrov's gravatar" width="100" /></a>
     </td>
     <td>
       <code>
