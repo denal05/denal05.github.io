@@ -3,7 +3,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
-      <a href="https://gravatar.com/denisvaleksandrov"><img src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" alt="Denis Aleksandrov's gravatar" /></a>
+      <a href="https://gravatar.com/denisvaleksandrov"><img src="https://gravatar.com/avatar/ec3e7d35db0ff66e33cffee951a9253d" alt="Denis Aleksandrov's gravatar" width="32" /></a>
     </td>
     <td>
       <code>
@@ -26,7 +26,7 @@ From February to June 2023, I worked remotely as a Magento 2 developer for NTT D
 
 From November 2023 to August 2024, I worked remotely for Syncit Group, upgrading production Magento stores, building Docker environments, investigating and removing malware, and customizing Magento's standard checkout.  
 
-In the meantime, I was studying for the AD0-E724 certification [Adobe Certified Professional - Adobe Commerce Developer AD0-E724](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2/1242). To achieve that, I enrolled in the [SwiftOtter](https://learning.swiftotter.com/) and [M.academy](https://m.academy/) schools. I even sparked a good discussion on [Campus](https://campus.m.academy/), the premium community for Magento developers, which led Mark Shust to write an excellent article: [The Unexpected Behavior of Magento Plugin Execution Order](https://m.academy/articles/magento-plugin-execution-order/).    
+In the meantime, I was studying for the [AD0-E724 certification "Adobe Certified Professional - Adobe Commerce Developer"](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2/1242). To achieve that, I enrolled in the [SwiftOtter](https://learning.swiftotter.com/) and [M.academy](https://m.academy/) schools. I even sparked a good discussion on [Campus](https://campus.m.academy/), the premium community for Magento developers, which led Mark Shust to write an excellent article: [The Unexpected Behavior of Magento Plugin Execution Order](https://m.academy/articles/magento-plugin-execution-order/).    
 
 What distinguishes my background from that of many developers is that I also spent more than seven years in project management. I understand that successful software delivery involves more than writing code: requirements must be clarified, risks communicated, priorities understood, problems followed through, and people kept informed. My earlier IT career also includes software development, QA, technical support, system administration, teaching and embedded systems.  
 
@@ -42,11 +42,12 @@ I am also a Reformed Christian. My faith shapes how I understand work: as stewar
 
 If you would like to understand what I believe, I have summarized the Christian Gospel here: [What I Believe →](https://denal05.github.io/gospel)
 
-Sincerely,
-Denis V. Aleksandrov
+Sincerely,  
+Denis V. Aleksandrov  
 +389-77-975812  
 denis.v.aleksandrov@gmail.com  
 [https://github.com/denal05](https://github.com/denal05)  
 [https://www.linkedin.com/in/denal05](https://www.linkedin.com/in/denal05)  
 [https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e](https://www.upwork.com/freelancers/~0167bf0c63f8a21b6e)  
 [https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002](https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002)  
+
