@@ -1,9 +1,7 @@
 # My Open Cover Letter
 
-```
-TL;DR Certified Adobe Commerce (Magento) Developer with 6 years of hands-on Magento/e-commerce experience (2019-2024), 7 years of project-management experience (2011-2018), and an IT career spanning 25+ years since 2000.
-I am not merely someone who can write Magento code. I am the dependable person who can understand the problem, communicate with stakeholders, take ownership, troubleshoot production issues, and carry Magento work through to completion.
-```
+`TL;DR Certified Adobe Commerce (Magento) Developer with 6 years of hands-on Magento/e-commerce experience (2019-2024), 7 years of project-management experience (2011-2018), and an IT career spanning 25+ years since 2000.`  
+`I am not merely someone who can write Magento code. I am the dependable person who can understand the problem, communicate with stakeholders, take ownership, troubleshoot production issues, and carry Magento work through to completion.`  
 
 I'm Denis V. Aleksandrov, an **[Adobe Certified Professional - Adobe Commerce Developer](https://certification.adobe.com/credential/verify/a197b9d4-a7d1-11f1-bdd6-42010a400002)** based in Skopje, North Macedonia. I work remotely with agencies, merchants, and development teams that need a dependable Magento 2 developer who can take ownership of both development work and production problems.  
 
