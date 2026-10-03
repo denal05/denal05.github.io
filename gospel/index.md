@@ -1,6 +1,6 @@
 # The Gospel in Seven Passages
 
-Christianity begins with God's love and God's initiative: [John 3:16]().
+Christianity begins with God's love and God's initiative: [John 3:16](https://bible.com/bible/59/jhn.3.16.ESV)
 
 Our problem is universal: [Romans 3:23]() — all have sinned and fall short of God's glory.
 
@@ -28,3 +28,7 @@ The Four Laws
 • Law 4: We must individually receive Jesus Christ as Savior and Lord (i.e. King) to know God personally.  
 
 Cru Singapore has provided a helpful resource to understand these four laws further: [The Four](https://thefour.sg/)  
+
+The summary of the entire good news message can be found in the following verse, in the Gospel of John, chapter 3, verse 16:  
+`„For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.“
+‭‭The following short video tells a story of a father who had a beloved little boy, but had to choose between saving his son or saving a train full of strangers: ["Most" - The Bridge](https://youtu.be/qYc4OKftMFU?si=vuWAF81gGfFGVUSK)  
