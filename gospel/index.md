@@ -30,5 +30,5 @@ The Four Laws
 Cru Singapore has provided a helpful resource to understand these four laws further: [The Four](https://thefour.sg/)  
 
 The summary of the entire good news message can be found in the following verse, in the Gospel of John, chapter 3, verse 16:  
-`„For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.“
+`„For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.“`  
 ‭‭The following short video tells a story of a father who had a beloved little boy, but had to choose between saving his son or saving a train full of strangers: ["Most" - The Bridge](https://youtu.be/qYc4OKftMFU?si=vuWAF81gGfFGVUSK)  
