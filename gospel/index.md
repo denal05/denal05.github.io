@@ -18,3 +18,4 @@ The Protestant Reformation helped us understand that **salvation** is not someth
 
 Also, [John 1:13]() and [Ephesians 2:8-9]() explain further that new birth and saving faith do not arise from human merit or autonomous human will, but from God's grace.
 
+Watch this short and insightful video that tells The Story -- the metanarrative that we're all part of: [The Story Film](https://thestoryfilm.com/en)
