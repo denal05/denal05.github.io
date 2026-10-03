@@ -1,22 +1,23 @@
 # The Gospel in Seven Passages
 
-Christianity begins with God's love and God's initiative: [John 3:16](https://bible.com/bible/59/jhn.3.16.ESV)
+Christianity begins with God's love and God's initiative: [John 3:16](https://bible.com/bible/59/jhn.3.16.ESV) - „For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.“
 
-Our problem is universal: [Romans 3:23]() — all have sinned and fall short of God's glory.
+Our problem is universal: [Romans 3:23](https://bible.com/bible/59/rom.3.23.ESV) - all have sinned and fall short of God's high standard.
 
-Sin has a consequence: [Romans 6:23]() — its wages are death.
+Sin has a consequence: [Romans 6:23](https://bible.com/bible/59/rom.6.23.ESV) - its wages are death.
 
-God's judgment is real: [Matthew 13:42]().
+God's judgment is real: [Matthew 13:42](https://bible.com/bible/59/mat.13.42.ESV) - God will throw sinners into the fiery furnace. In that place there will be weeping and gnashing of teeth.
 
-But God has provided the only Savior: [1 Corinthians 15:3-4]() — Christ died for our sins, was buried, and rose again.
+But God has also provided the only Savior - his own Son: [1 Corinthians 15:3-4](https://bible.com/bible/59/1co.15.3-4.ESV) — Christ died for our sins, was buried, and rose again.
 
-[John 1:12]() says that those who receive Christ and believe in His name are given the right to become children of God.
+[John 1:12](https://bible.com/bible/59/jhn.1.12.ESV) says that those who receive Christ and believe in His name are given the right to become children of God.
 
-[Revelation 3:20]() pictures Christ standing at the door and knocking, calling us to hear Him and respond. This is a call to repentance and fellowship with Christ.
+[Revelation 3:20](https://bible.com/bible/59/rev.3.20.ESV) pictures Christ standing at the door and knocking, calling us to hear Him and respond. This is a call to repentance and fellowship with Christ.
 
-The Protestant Reformation helped us understand that **salvation** is not something we earn. It is **by grace alone, through faith alone, in Christ alone, to the glory of God alone**.
+The Protestant Reformation helped us understand that **salvation** is not something we earn. It is **by grace alone, through faith alone, in Christ alone, to the glory of God alone**.  
+This helpful article by John Piper expounds the five Solas of the Protestant Reformation: [Does God Really Save Us by Faith Alone?](https://www.desiringgod.org/articles/does-god-really-save-us-by-faith-alone)
 
-Also, [John 1:13]() and [Ephesians 2:8-9]() explain further that new birth and saving faith do not arise from human merit or autonomous human will, but from God's grace.
+Also, [John 1:13](https://bible.com/bible/59/jhn.1.12-13.ESV) and [Ephesians 2:8-9](https://bible.com/bible/59/eph.2.8-9.ESV) explain further that new birth and saving faith do not arise from human merit or autonomous human will, but from God's grace.
 
 Watch this short and insightful video that tells The Story -- the metanarrative that we're all part of: [The Story Film](https://thestoryfilm.com/en)
 
